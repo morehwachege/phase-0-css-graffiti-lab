@@ -1,1 +1,20 @@
 /* write your override styles here */
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: red;
+    border-radius: 50px;
+    border: 30px solid lime;
+}
+img{
+    background-color: lime;
+    border: 10px solid lime;
+    border-radius: 13px;
+    color: white;
+}
+.update{
+    text-align: center;
+    font-size: 25px;
+}
